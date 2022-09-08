@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="lt">
+
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<header>
+  <nav>
+    <ul>
+      <li><a href="#joga">Joga</a></li>
+      <li><a href="#karate">Karate</a></li>
+      <li><a href="#lengvoji">Lengvoji atletika</a></li>
+      <li><a href="#jojimas">Jojimas</a></li>
+      <li><a href="#begimas">Bėgimas</a></li>
+      <li><a href="#rankinis">Rankinis</a></li>
+    </ul>
+  </nav>
+      <article id="joga">
+        <h2>Joga</h2>
+          <p>Seniausi archeologiniai jogos egzistavimo įrodymai – maždaug 3000 metų pr. m. e. senumo akmeninės figūrėlės, vaizduojančios, kaip spėjama, žmones jogos pozomis (Pašupačio antspaudas).</p>
+        <img src="https://g2.dcdn.lt/images/pix/1200x750/sivLPnPuzLQ/moteris-manksta-joga-71694552.jpg" alt="joga" style="width: 200px; height:auto"/>
+        <a href="https://lt.wikipedia.org/wiki/Joga">Skaityti Plačiau</a>
+        </article>
+      <article id="karate">
+        <h2>Karate</h2>
+          <p>Egzistuoja keletas karatė stilių. Jie skirstomi į sportinius ir nesportinius. Nesportiniams karatė stiliams priklauso dauguma senųjų Okinavos karatė mokyklų.
+
+Šiuo metu Pasaulio karate federacija (WKF, World Karate Federation) yra didžiausia tarptautinė Karatė-do organizacija, kuri vienija daugiau nei 50 milijonų užsiiminėjančių karatė narių.</p>
+        <img src="https://cdn.britannica.com/07/145407-050-8DBD77E9/belts.jpg" alt="karate" style="width: 200px; height: auto"/>
+        <a href="https://lt.wikipedia.org/wiki/Karat%C4%97">Skaityti Plačiau</a>
+      </article>
+      <article id="lengvoji">
+        <h2>Lengvoji atletika</h2>
+          <p>Integralinė sporto šaka, apimanti ėjimo, bėgimo, metimų, šuolių rungtis. Pavadinimas kilęs nuo gr. athlon – „varžybos, kova“, o žodis „lengvoji“ naudojamas atskirti šią sporto šaką nuo sunkiosios atletikos (sunkumų kilnojimas, imtynės). Nuo pirmųjų 1896 m. vasaros olimpinių žaidynių įtraukta į olimpinę programą.</p>
+        <img src="https://smstartas.lt/wp-content/uploads/2018/09/lengvoji-atletika.jpg" alt="lengvoji" style="width: 200px; height: auto"/>
+        <a href="https://lt.wikipedia.org/wiki/Lengvoji_atletika">Skaityti Plačiau</a>
+      </article>
+      <article id="jojimas">
+        <h2>Jojimas</h2>
+        <p>Žirgo valdymas bei treniravimas raiteliui sėdint ant žirgo nugaros. Jojimas susijęs su pramoga, poilsiu,keliavimu ar kai kurių susirgimų gydymu. Jojant raitelis valdo žirgą savo kūno judesių bei papildomo tam specialiai pritaikyto inventoriaus pagalba.</p>
+        <img src="https://alkas.lt/wp-content/uploads/2022/06/VytautBedalytpagrindinnuotrauka.jpg" alt="jojimas" style="width: 200px; height: auto"/>
+        <a href="https://lt.wikipedia.org/wiki/Jojimas">Skaityti Plačiau</a>
+      </article>
+      <article id="begimas">
+        <h2>Bėgimas</h2>
+        <p>Vienas iš natūraliausių žmogaus judėjimo erdvėje būdų. Bėgimui būdingi pasikartojantys judesiai, sudaryti iš dviejų žingsnių. Po dviejų žingsnių bėgikas kojų, rankų bei liemens judesius toliau kartoja ta pačia eilės tvarka. Lankstant dirba visos pagrindinės žmogaus raumenų grupės.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1500finalM1.JPG/600px-1500finalM1.JPG" alt="begimas" style="width: 200px; height: auto"/>
+        <a href="https://lt.wikipedia.org/wiki/B%C4%97gimas">Skaityti Plačiau</a>
+      </article>
+      <article id="rankinis">
+        <h2>Rankinis</h2>
+        <p>komandinio sporto žaidimas, kurio rungtynėse dvi komandos siekia pelnyti kuo daugiau įvarčių įmesdami kamuolį į priešininkų vartus. Aikštėje vienu metu žaidžia po septynis kiekvienos komandos žaidėjus (6 žaidėjai ir vartininkas).</p>
+        <img src="https://g2.dcdn.lt/images/pix/1280x853/2XxzSwzKD_E/aidenas-malasinskas-foto-rankinislt-89091417.jpg" alt="rankinis" style="width: 200px; height: auto"/>
+        <a href="https://lt.wikipedia.org/wiki/Rankinis">Skaityti Plačiau</a>
+      </article>
+</header>
+  
+  <p>You can reach Justin at:</p>
+  <ol>
+    <li><a href="https://www.youtube.com">Website</a></li>
+    <li><a href="mailto:steponaviciusjustas@gmail.com">E-mail</a></li>
+    <li><a href="tel:+37062631366">Phone</a></li>
+    <li><a href="contacts.html">Contacts</a></li>
+  </ol>
+  
+
+  <script src="script.js"></script>
+  <footer>&copy; All Rights Reserved</footer>
+</body>
+
+</html>
